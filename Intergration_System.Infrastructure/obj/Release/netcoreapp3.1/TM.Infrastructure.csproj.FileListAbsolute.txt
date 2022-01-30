@@ -1,0 +1,16 @@
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\bin\Release\netcoreapp3.1\TM.Infrastructure.deps.json
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\bin\Release\netcoreapp3.1\TM.Infrastructure.runtimeconfig.json
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\bin\Release\netcoreapp3.1\TM.Infrastructure.runtimeconfig.dev.json
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\bin\Release\netcoreapp3.1\TM.Infrastructure.dll
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\bin\Release\netcoreapp3.1\TM.Infrastructure.pdb
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\bin\Release\netcoreapp3.1\TM.Domain.dll
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\bin\Release\netcoreapp3.1\TM.Domain.pdb
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\obj\Release\netcoreapp3.1\TM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\obj\Release\netcoreapp3.1\TM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\obj\Release\netcoreapp3.1\TM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\obj\Release\netcoreapp3.1\TM.Infrastructure.AssemblyInfo.cs
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\obj\Release\netcoreapp3.1\TM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\obj\Release\netcoreapp3.1\TM.Infrastructure.csproj.CopyComplete
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\obj\Release\netcoreapp3.1\TM.Infrastructure.dll
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\obj\Release\netcoreapp3.1\TM.Infrastructure.pdb
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Infrastructure\obj\Release\netcoreapp3.1\TM.Infrastructure.genruntimeconfig.cache

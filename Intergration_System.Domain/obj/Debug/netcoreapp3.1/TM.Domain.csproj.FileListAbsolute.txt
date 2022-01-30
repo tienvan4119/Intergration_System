@@ -1,0 +1,11 @@
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Domain\bin\Debug\netcoreapp3.1\TM.Domain.deps.json
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Domain\bin\Debug\netcoreapp3.1\TM.Domain.dll
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Domain\bin\Debug\netcoreapp3.1\TM.Domain.pdb
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Domain\obj\Debug\netcoreapp3.1\TM.Domain.Resources.Messages.resources
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Domain\obj\Debug\netcoreapp3.1\TM.Domain.csproj.GenerateResource.cache
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Domain\obj\Debug\netcoreapp3.1\TM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Domain\obj\Debug\netcoreapp3.1\TM.Domain.AssemblyInfoInputs.cache
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Domain\obj\Debug\netcoreapp3.1\TM.Domain.AssemblyInfo.cs
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Domain\obj\Debug\netcoreapp3.1\TM.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Domain\obj\Debug\netcoreapp3.1\TM.Domain.dll
+C:\Users\vannt\source\repos\Intergration_System\Intergration_System.Domain\obj\Debug\netcoreapp3.1\TM.Domain.pdb
